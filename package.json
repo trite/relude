@@ -33,15 +33,14 @@
   "license": "MIT",
   "devDependencies": {
     "@glennsl/bs-jest": "^0.7.0",
+    "bisect_ppx": "^2.7.1",
     "bs-bastet": "^2.0.0",
     "docsify-cli": "~4.4.0"
   },
   "peerDependencies": {
     "bs-bastet": "^2.0.0"
   },
-  "dependencies": {
-    "bisect_ppx": "^2.7.1"
-  },
+  "dependencies": {},
   "jest": {
     "verbose": false,
     "testPathIgnorePatterns": [
